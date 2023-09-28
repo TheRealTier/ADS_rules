@@ -4,4 +4,13 @@
   <uuid>799d684d-b112-4ed4-8ce8-be0c290d3287</uuid>
   <decisionModel href="../rules/decisionModel.dmo#38a186c3-f8d3-495c-8933-8ba9a9289203"/>
   <targetRuleProject href="../../Kunde_will_Kredit#8aa56592-3ff2-4121-8d8f-1eae5391d8e2"/>
+  <tags key="operationDescription">
+    <value><![CDATA["Hello, World-Beispiel"]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["Kunde_will_Kredit"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
 </com.ibm.rules.studio.model.decisionservice:Operation>
