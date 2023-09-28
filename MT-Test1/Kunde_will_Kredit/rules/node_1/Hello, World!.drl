@@ -6,6 +6,6 @@
   <definition><![CDATA[if
 	Input is not empty
 then
-	set decision to "Hello, " + Input;
+	set decision to "Hello, " + Input + "!";
    ]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>
