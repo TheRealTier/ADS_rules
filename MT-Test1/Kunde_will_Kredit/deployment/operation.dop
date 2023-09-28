@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="Kunde_will_Kredit">
+  <name>Kunde_will_Kredit</name>
+  <uuid>799d684d-b112-4ed4-8ce8-be0c290d3287</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#38a186c3-f8d3-495c-8933-8ba9a9289203"/>
+  <targetRuleProject href="../../Kunde_will_Kredit#8aa56592-3ff2-4121-8d8f-1eae5391d8e2"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>

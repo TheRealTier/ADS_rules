@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>output-default-setting</name>
+  <uuid>9da9711a-7681-4916-b39e-de247bab0ac7</uuid>
+  <documentation><![CDATA[Greift im Fall, dass keine andere Regel gegriffen hat.]]></documentation>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to "Hello, World" ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
